@@ -1,4 +1,4 @@
-// O(n) , Manacher’s Algorithm
+// O(n) , Manacher’s Algorithm 
 
 #include<bits/stdc++.h>
 using namespace std;
